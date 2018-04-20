@@ -1,2 +1,2 @@
 # invie-github
-school project to learn git
+school project to learn git.  Mejor curso ever
